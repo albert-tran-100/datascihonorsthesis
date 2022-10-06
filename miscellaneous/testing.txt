@@ -1,3 +1,5 @@
+Reference: https://github.com/ls88-openscienceconnector/final-project
+
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/albert-tran-100/datascihonorsthesis.git/main
 
