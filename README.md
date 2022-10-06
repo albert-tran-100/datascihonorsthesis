@@ -1,2 +1,2 @@
 # datascihonorsthesis
-Data Science Honors THesis
+Data Science Honors Thesis
